@@ -1,6 +1,0 @@
-streamlit
-statsbombpy
-pandas
-scipy
-seaborn
-scikit-learn
